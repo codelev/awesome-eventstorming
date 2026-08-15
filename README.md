@@ -80,24 +80,17 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [EventStorming, Colaborative Learning for Complex Domains, Paul Rayner](http://yowconference.com.au/slides/yowwest2016/Rayner-EventStorming.pdf)
 - [Transactions redefined, Alberto Brandolini](https://www.slideshare.net/ziobrando/transactions-redefined)
 
-## People on Twitter
+## People on X
 
-- [Alberto Brandolini](https://twitter.com/ziobrando), inventor of EventStorming
-- [Mathias Verraes](https://twitter.com/mathiasverraes)
-- [Dan North](https://twitter.com/tastapod)
-- [Mariusz Gil](https://twitter.com/mariuszgil)
-- [Alexey Zimarev](https://twitter.com/Zimareff)
-- [Adam Dymitruk](https://twitter.com/adymitruk)
-- [Marco Heimeshoff](https://twitter.com/Heimeshoff)
-- [Martin Schimak](https://twitter.com/martinschimak)
-- [Nick Tune](https://twitter.com/ntcoding)
-- [Paul Rayner](https://twitter.com/thepaulrayner)
-- [Nick Chamberlain](https://twitter.com/heynickc)
-- [Daniel Whittaker](https://twitter.com/codescribler)
-- [Kenny Baas](https://twitter.com/kenny_baas)
-- [Philippe Bourgau](https://twitter.com/pbourgau)
-- [Vladik Khononov](https://twitter.com/vladikk)
-- [João Rosa](https://twitter.com/joaoasrosa)
+- [Alberto Brandolini](https://x.com/ziobrando), inventor of EventStorming
+- [Mathias Verraes](https://x.com/mathiasverraes)
+- [Nick Tune](https://x.com/ntcoding)
+- [Paul Rayner](https://x.com/thepaulrayner)
+- [Nick Chamberlain](https://x.com/heynickc)
+- [Daniel Whittaker](https://x.com/codescribler)
+- [Philippe Bourgau](https://x.com/pbourgau)
+- [Vladik Khononov](https://x.com/vladikk)
+- [João Rosa](https://x.com/joaoasrosa)
 
 I'm sorry if I missed someone related to the topic...
 
