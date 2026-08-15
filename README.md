@@ -70,6 +70,7 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [Event Storming for fun and profit, Dan North](https://skillsmatter.com/skillscasts/8003-event-storming-for-fun-and-profit)
 - [Transactions redefined, Alberto Brandolini](https://skillsmatter.com/skillscasts/9507-dddx-bytes)
 - [Recording of Big Picture Online Event Storming](https://youtu.be/vwuSDCRghb8)
+- [From EventStorming to CoDDDing, Kenny Baas & João Rosa](https://speakerdeck.com/baasie/from-eventstorming-to-coddding-at-nextbuildconf)
 
 ## Presentation slides
 
@@ -94,9 +95,9 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [Nick Chamberlain](https://twitter.com/heynickc)
 - [Daniel Whittaker](https://twitter.com/codescribler)
 - [Kenny Baas](https://twitter.com/kenny_baas)
-- [Martin Schimak](https://twitter.com/martinschimak)
 - [Philippe Bourgau](https://twitter.com/pbourgau)
 - [Vladik Khononov](https://twitter.com/vladikk)
+- [João Rosa](https://twitter.com/joaoasrosa)
 
 I'm sorry if I missed someone related to the topic...
 
@@ -135,6 +136,7 @@ Have you ever been at "remote" party or tried to listen few parallel discussions
 - [EventStormers Google Group Community](https://groups.google.com/forum/#!forum/eventstorming)
 - [DDD/CQRS/ES Slack see the #event-storming channel](https://github.com/ddd-cqrs-es/slack-community)
 - [Worldwide EventStorming](https://kommunity.com/worldwide-eventstorming)
+- [EventStorming @ Twitter](https://twitter.com/eventstorming)
 
 ## Offline Communities
 
