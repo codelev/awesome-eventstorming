@@ -29,22 +29,17 @@ EventStorming offers notation for process and software modeling, like Events, Co
 
 ## Books
 
-- [Introducing EventStorming, Alberto Brandolini](http://eventstorming.com)
+- [Introducing EventStorming, Alberto Brandolini](https://leanpub.com/introducing_eventstorming)
 - [Domain-Driven Design Distilled, Chapter 7: Acceleration and Management Tools, Vaughn Vernon](https://www.pearson.com/us/higher-education/program/Vernon-Domain-Driven-Design-Distilled/PGM332632.html)
 - [The EventStorming Handbook, Paul Rayner](https://leanpub.com/eventstorming_handbook)
-- [What is Domain-Driven Design?, Chapter 8: Event Storming, Vladik Khononov](https://learning.oreilly.com/library/view/what-is-domain-driven/9781492057802/)
 
 ## Articles
 
 - [Introducing EventStorming, Alberto Brandolini](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)
 - [Facilitating EventStorming, Mathias Verraes](http://verraes.net/2013/08/facilitating-event-storming/)
-- [An introduction to EventStorming: The easy way to achieve domain-driven design, Steven A. Lowe](https://techbeacon.com/introduction-event-storming-easy-way-achieve-domain-driven-design)
-- [Modelling Reactive Systems with EventStorming and Domain-Driven Design, Kevin Webber](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7)
 - [EventStorming: On Fake Domains and Happy Paths, Mathias Verraes](http://verraes.net/2014/07/event-storming-fake-domains-happy-paths/)
 - [EventStorming, Storytelling, Visualisations, Mathias Verraes](http://verraes.net/2015/03/event-storming-storytelling-visualisations/)
 - [EventStorming Exercise, Tim Schraepen](http://sch3lp.github.io/2014/07/12/event-storming-exercise/)
-- [EventStorming: Warsztaty Product Craftsmanship Agile Wrocław, Rafał Makara (PL)](https://rmakara.github.io/Event-Storming-Warsztaty-Agile-Wroclaw)
-- [How to Use Event Storming for Product Development, Andrzej Samek](https://developers.livechatinc.com/blog/event-storming-for-product-development/)
 - [Event Storming and Spring with a Splash of DDD, Jakub Pilimon](https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd)
 - [EventStorming's Coincidence with Business Process Improvement](https://buildplease.com/pages/lean/)
 - "First Pop Coffee Company" series, Nick Chamberlain
@@ -56,7 +51,6 @@ EventStorming offers notation for process and software modeling, like Events, Co
   - [Complexity and Cost](https://buildplease.com/pages/fpc-7/)
   - [Design Level EventStorming Continued](https://buildplease.com/pages/fpc-8/)
 - [EventStorming, What You Need to Know, Daniel Whittaker](http://danielwhittaker.me/2016/07/08/eventstorming-what-you-need-to-know/)
-- [How Event Storming Will Improve Your Business Processes, Wojciech Maciejak](https://www.monterail.com/blog/event-storming-business-development)
 - [A facilitators recipe for Event Storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d)
 - [A step by step guide to Event Storming – our experience, Natalia Kolińska](https://www.boldare.com/blog/event-storming-guide/)
 - [Event Storming and Event Modeling - Cheat Sheet For Organizers](https://github.com/ylorph/RandomThoughts/blob/master/2019.08.16_StormingWithStickies.md)
@@ -66,9 +60,6 @@ EventStorming offers notation for process and software modeling, like Events, Co
 ## Videos
 
 - [50.000 Orange Stickies Later, Alberto Brandolini](https://www.youtube.com/watch?v=1i6QYvYhlYQ)
-- [EventStorming - Collaborative Learning for Complex Domains, Paul Rayner](https://www.youtube.com/watch?v=04tGbixfGEY)
-- [Event Storming for fun and profit, Dan North](https://skillsmatter.com/skillscasts/8003-event-storming-for-fun-and-profit)
-- [Transactions redefined, Alberto Brandolini](https://skillsmatter.com/skillscasts/9507-dddx-bytes)
 - [Recording of Big Picture Online Event Storming](https://youtu.be/vwuSDCRghb8)
 - [From EventStorming to CoDDDing, Kenny Baas & João Rosa](https://speakerdeck.com/baasie/from-eventstorming-to-coddding-at-nextbuildconf)
 
@@ -77,7 +68,6 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [EventStorming Recipes, Alberto Brandolini](https://www.slideshare.net/ziobrando/event-storming-recipes)
 - [Model Storming, Alberto Brandolini](https://www.slideshare.net/ziobrando/model-storming)
 - [50.000 Orange Stickies Later, Alberto Brandolini](https://www.slideshare.net/ziobrando/50000-orange-stickies-later)
-- [EventStorming, Colaborative Learning for Complex Domains, Paul Rayner](http://yowconference.com.au/slides/yowwest2016/Rayner-EventStorming.pdf)
 - [Transactions redefined, Alberto Brandolini](https://www.slideshare.net/ziobrando/transactions-redefined)
 
 ## People on X
@@ -89,7 +79,6 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [Nick Chamberlain](https://x.com/heynickc)
 - [Daniel Whittaker](https://x.com/codescribler)
 - [Philippe Bourgau](https://x.com/pbourgau)
-- [Vladik Khononov](https://x.com/vladikk)
 - [João Rosa](https://x.com/joaoasrosa)
 
 I'm sorry if I missed someone related to the topic...
@@ -104,7 +93,8 @@ Have you ever been at "remote" party or tried to listen few parallel discussions
 - [EventStorming in COVID-19 times](https://blog.avanscoperta.it/it/2020/03/26/eventstorming-in-covid-19-times/)
 
 #### Tools
-- [prooph board - The Online Event Storming Platform](https://prooph-board.com)
+- [Prooph Board - Event Storming Platform](https://prooph-board.com)
+- [StormPilot - AI-assisted structured Event Storming diagram editor](https://stormpilot.codelev.com/)
 
 #### Other resources
 
@@ -115,7 +105,6 @@ Have you ever been at "remote" party or tried to listen few parallel discussions
 </p>
 
 - [Making the most out of remote EventStorming, Kenny Baas-Schwegler](https://baasie.com/2020/03/19/making-the-most-out-of-remote-eventstorming/)
-- [Remote EventStorming Guiding Heuristics](https://www.dddheuristics.com/remote-eventstorming/)
 - [Remote Event Storming, Maciej Czerpiński](https://medium.com/@maciejczerpinski/remote-event-storming-bc3eff80110b)
 - [Remote Team Flow EventStorming for Retrospectives, Nick Tune](https://medium.com/nick-tune-tech-strategy-blog/remote-team-flow-eventstorming-for-retrospectives-a8ea33cdb277)
 
@@ -124,26 +113,12 @@ Have you ever been at "remote" party or tried to listen few parallel discussions
 - [DDD by Examples, Factory](https://github.com/ddd-by-examples/factory)
 - [DDD by Examples, Library](https://github.com/ddd-by-examples/library)
 
-## Online Communities
+## Communities
 
-- [EventStormers Google Group Community](https://groups.google.com/forum/#!forum/eventstorming)
-- [DDD/CQRS/ES Slack see the #event-storming channel](https://github.com/ddd-cqrs-es/slack-community)
 - [Worldwide EventStorming](https://kommunity.com/worldwide-eventstorming)
-- [EventStorming @ Twitter](https://twitter.com/eventstorming)
-
-## Offline Communities
-
+- [EventStorming @ X.com](https://y.com/eventstorming)
 - [Barcelona](https://kommunity.com/barcelona-eventstorming-startups-businesses)
-- [Netherlands](https://www.meetup.com/Visual-Collaborators-Netherlands/)
 
 ## Training
 - [EventStorming Fundamentals Course](https://elearning.dsolemorera.com/courses/eventstorming-fundamentals) ([also in Spanish](https://elearning.dsolemorera.com/courses/fundamentos-eventstorming)) - learn the fundamentals of EventStorming. Everything about EventStorming with examples.
 
-## Related topics
-
-There are some interesting articles not directly connected to main topic, but underlaying concepts.
-
-- [How to spot a liar: get them to tell their story backwards](http://www.dailymail.co.uk/sciencetech/article-460505/How-spot-liar-tell-story-backwards.html)
-- [Detection of Deception: Cognitive Load](http://psychology.iresearchnet.com/forensic-psychology/police-psychology/detection-of-deception-cognitive-load/)
-- [Divergent, Emergent & Convergent Thinking, Performance People Pty Ltd](https://www.slideshare.net/GeoffatPerformancePeople/fan-explore-focus)
-- [The rise and fall of the Dungeon Master](https://medium.com/@ziobrando/the-rise-and-fall-of-the-dungeon-master-c2d511eed12f)
