@@ -74,7 +74,7 @@ EventStorming offers notation for process and software modeling, like Events, Co
 
 ## People on X
 
-- [Alberto Brandolini](https://x.com/ziobrando), inventor of EventStorming
+- [Alberto Brandolini](https://x.com/ziobrando)
 - [Mathias Verraes](https://x.com/mathiasverraes)
 - [Nick Tune](https://x.com/ntcoding)
 - [Paul Rayner](https://x.com/thepaulrayner)
@@ -120,7 +120,7 @@ Have you ever been at "remote" party or tried to listen few parallel discussions
 ## Communities
 
 - [Worldwide EventStorming](https://kommunity.com/worldwide-eventstorming)
-- [EventStorming @ X.com](https://y.com/eventstorming)
+- [EventStorming @ X.com](https://x.com/eventstorming)
 - [Barcelona](https://kommunity.com/barcelona-eventstorming-startups-businesses)
 
 ## Training
