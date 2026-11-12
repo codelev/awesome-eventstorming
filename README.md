@@ -62,6 +62,7 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [50.000 Orange Stickies Later, Alberto Brandolini](https://www.youtube.com/watch?v=1i6QYvYhlYQ)
 - [Recording of Big Picture Online Event Storming](https://youtu.be/vwuSDCRghb8)
 - [From EventStorming to CoDDDing, Kenny Baas & João Rosa](https://speakerdeck.com/baasie/from-eventstorming-to-coddding-at-nextbuildconf)
+- [Structured Event Storming Guide, CODELEV](https://www.youtube.com/watch?v=I_jYMFTWrJc&t)
 
 ## Presentation slides
 
@@ -69,6 +70,7 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [Model Storming, Alberto Brandolini](https://www.slideshare.net/ziobrando/model-storming)
 - [50.000 Orange Stickies Later, Alberto Brandolini](https://www.slideshare.net/ziobrando/50000-orange-stickies-later)
 - [Transactions redefined, Alberto Brandolini](https://www.slideshare.net/ziobrando/transactions-redefined)
+- [Structured Event Storming Guide, CODELEV](https://stormpilot.codelev.com/guide)
 
 ## People on X
 
@@ -93,7 +95,9 @@ Have you ever been at "remote" party or tried to listen few parallel discussions
 - [EventStorming in COVID-19 times](https://blog.avanscoperta.it/it/2020/03/26/eventstorming-in-covid-19-times/)
 
 #### Tools
-- [Prooph Board - Event Storming Platform](https://prooph-board.com)
+- [Prooph Board - Interactive board](https://prooph-board.com)
+- [Event Storm - Interactive board](https://vanillajonathan.github.io/eventstorm/)
+- [StormSpace - Interactive board](https://github.com/matt-bentley/StormSpace)
 - [StormPilot - AI-assisted structured Event Storming diagram editor](https://stormpilot.codelev.com/)
 
 #### Other resources
