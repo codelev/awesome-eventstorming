@@ -112,10 +112,10 @@ Have you ever been at "remote" party or tried to listen few parallel discussions
 - [Remote Event Storming, Maciej Czerpiński](https://medium.com/@maciejczerpinski/remote-event-storming-bc3eff80110b)
 - [Remote Team Flow EventStorming for Retrospectives, Nick Tune](https://medium.com/nick-tune-tech-strategy-blog/remote-team-flow-eventstorming-for-retrospectives-a8ea33cdb277)
 
-## Usage, software implementations using EventStorming
+## Stickies
 
-- [DDD by Examples, Factory](https://github.com/ddd-by-examples/factory)
-- [DDD by Examples, Library](https://github.com/ddd-by-examples/library)
+- [PlantUML set](https://github.com/dreamsinbits/event-storming-puml)
+- [Draw.io set](https://github.com/josenaldo/event-storming-template)
 
 ## Communities
 
